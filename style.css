@@ -1,0 +1,44 @@
+h1{
+    text-align:center;
+    font-family:cursive;
+    color: antiquewhite;
+}
+img{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width:150px;
+    align-content: left;
+    border-radius: 1cm;
+    border-top: 0.5cm;
+    border-width: 5cm;
+    align-content: center;
+}
+p{
+    text-align:left;
+}
+h3{
+font-family: fantasy;
+}
+body{
+    background-color:rgba(63, 71, 165, 0.837) ;
+}
+fieldset{
+    width: fit-content;
+    border-radius: 0.5cm;
+    border-color: rgb(rgb(93, 0, 255), rgb(213, 70, 192), blue);
+    background-color: blueviolet;
+}
+.about{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.socials{
+margin-left: auto;
+font-family: cursive;
+text-underline-position: below;
+}
+.icons{
+    width: 25px;
+    padding: 10px;
+}
